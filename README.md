@@ -42,7 +42,7 @@ Como testar:
 4. Faça login com admin@scorecup.com / 123456.
 5. Entre em Gerenciar Jogos.
 6. Teste cadastrar, editar e excluir um jogo.
-7. Volte ao dashboard e veja se os cards, próximos jogos e ranking aparecem.
+7. Volte ao dashboard e veja se os cards, próximos jogos e ranking aparecem
 
 
 ### 👥 Equipe Desenvolvedora
