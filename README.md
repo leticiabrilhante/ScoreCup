@@ -43,3 +43,9 @@ Como testar:
 5. Entre em Gerenciar Jogos.
 6. Teste cadastrar, editar e excluir um jogo.
 7. Volte ao dashboard e veja se os cards, próximos jogos e ranking aparecem.
+
+
+### 👥 Equipe Desenvolvedora
+* Ana Eduarda
+* Paulo Coutinho
+* Daniel Freire
